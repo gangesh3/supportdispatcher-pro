@@ -96,9 +96,6 @@ graph TD
 ### System Workflow
 ![Workflow Diagram](assets/architecture_diagram.png)
 
-## Demo Script
-
-A spoken narration script for presenting this project can be found in [DEMO_SCRIPT.txt](file:///d:/adk%20workspace/supportdispatcher-pro/DEMO_SCRIPT.txt).
 
 ## Troubleshooting
 
